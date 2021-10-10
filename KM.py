@@ -1,6 +1,8 @@
 import os,sys,time
 os.system("clear")
 
+#Apa Mau Tampal Ijin Dlu Kontol
+
 #Buat Nanya
 def nanya():
     a = raw_input("Apakah Anda Ingin Lihat KM yg Lainnya? [Y/T] ~~> ")
